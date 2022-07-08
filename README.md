@@ -1,19 +1,5 @@
-# New Lancer Project
+# DEPRECATED
 
-This is a new Lancer project. Read more at [lancer.studio](https://lancer.studio)
+This repo has been moved to https://github.com/0xMacro/library
 
-## Getting Started
-
-After cloning this project:
-
-```bash
-$ npm install
-$ npm run init
-$ npm run dev
-```
-
-## Notes
-
-`solc-wrapper.js` was generated via:
-
-    $ browserify node_modules/solc/wrapper.js -o solc-wrapper.js -s SolcWrapper
+Keep this repo around for old links to persist.
